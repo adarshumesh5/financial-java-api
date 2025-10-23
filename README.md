@@ -1,7 +1,5 @@
 # financial-java-api
 
-[![Build Status](https://travis-ci.org/mariazevedo88/financial-java-api.svg?branch=master)](https://travis-ci.org/mariazevedo88/financial-java-api) ![GitHub forks](https://img.shields.io/github/forks/mariazevedo88/financial-java-api?style=social) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/mariazevedo88/financial-java-api) ![GitHub language count](https://img.shields.io/github/languages/count/mariazevedo88/financial-java-api) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/mariazevedo88/financial-java-api) ![GitHub repo size](https://img.shields.io/github/repo-size/mariazevedo88/financial-java-api) ![GitHub last commit](https://img.shields.io/github/last-commit/mariazevedo88/financial-java-api) ![GitHub](https://img.shields.io/github/license/mariazevedo88/financial-java-api)
-
 ## About the API
 
 A financial API for managing transactions. The API main URL `/financial/v1`.
@@ -229,22 +227,3 @@ or
 mvn spring-boot:run -Dspring.profiles.active=dev
 ```
 
-By default, the API will be available at [http://localhost:8080/financial/v1](http://localhost:8080/financial/v1)
-
-### Documentation
-
-* Swagger (development environment): [http://localhost:8080/swagger-ui/index.html](http://localhost:8080/swagger-ui/index.html)
-
-#### Medium Articles
-
-* [Construindo uma API RESTful com Java e Spring Framework— Parte 1 (PT-BR)](https://medium.com/@mari_azevedo/construindo-uma-api-restful-com-java-e-spring-framework-46b74371d107)
-* [Construindo uma API RESTful com Java e Spring Framework— Parte 2 (PT-BR)](https://medium.com/@mari_azevedo/construindo-uma-api-restful-com-java-e-spring-framework-parte-2-7a6c3e2ad453)
-* [Construindo uma API RESTful com Java e Spring Framework— Parte 3 (PT-BR)](https://medium.com/@mari_azevedo/construindo-uma-api-restful-com-java-e-spring-framework-parte-3-ab34fcc00dee)
-
-### License
-
-This API is licensed under the MIT License.
-
-### Contributing
-
-[![](https://sourcerer.io/fame/mariazevedo88/mariazevedo88/financial-java-api/images/0)](https://sourcerer.io/fame/mariazevedo88/mariazevedo88/financial-java-api/links/0)[![](https://sourcerer.io/fame/mariazevedo88/mariazevedo88/financial-java-api/images/1)](https://sourcerer.io/fame/mariazevedo88/mariazevedo88/financial-java-api/links/1)[![](https://sourcerer.io/fame/mariazevedo88/mariazevedo88/financial-java-api/images/2)](https://sourcerer.io/fame/mariazevedo88/mariazevedo88/financial-java-api/links/2)[![](https://sourcerer.io/fame/mariazevedo88/mariazevedo88/financial-java-api/images/3)](https://sourcerer.io/fame/mariazevedo88/mariazevedo88/financial-java-api/links/3)[![](https://sourcerer.io/fame/mariazevedo88/mariazevedo88/financial-java-api/images/4)](https://sourcerer.io/fame/mariazevedo88/mariazevedo88/financial-java-api/links/4)[![](https://sourcerer.io/fame/mariazevedo88/mariazevedo88/financial-java-api/images/5)](https://sourcerer.io/fame/mariazevedo88/mariazevedo88/financial-java-api/links/5)[![](https://sourcerer.io/fame/mariazevedo88/mariazevedo88/financial-java-api/images/6)](https://sourcerer.io/fame/mariazevedo88/mariazevedo88/financial-java-api/links/6)[![](https://sourcerer.io/fame/mariazevedo88/mariazevedo88/financial-java-api/images/7)](https://sourcerer.io/fame/mariazevedo88/mariazevedo88/financial-java-api/links/7)
